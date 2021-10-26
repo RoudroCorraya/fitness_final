@@ -1,0 +1,732 @@
+@media (min-width: 320px) and (max-width: 575px){
+    /*======banner_part======*/
+    .container{
+        width: auto;
+    }
+    #banner_part{
+        width: auto;
+        padding: 50px 0;
+        
+    }
+    #banner_part .banner_text{
+        margin-left: 5px;
+        width: 320px;
+    }
+    #banner_part .banner_text p{
+        width: 300px;
+    }
+    #banner_part .banner_text h1{
+        font-size: 30px;
+        margin-top: 35px;
+    }
+    #banner_part ul{
+        left: 85%;
+        top: 200px;
+        width: 40px;
+    }
+    #banner_part ul li{
+        width: 40px;
+        height: 40px;
+        padding: 10px 10px;
+    }
+    /* ======banner_bottom====== */
+    .offset-1{
+        margin-left: 0;
+    }
+    #banner_bottom{
+        margin-top: 50px;
+    }
+    #banner_bottom .img{
+        width: 290px;
+        margin-top: 10px;
+    }
+    /* =======welcome_part======= */
+    #welcome_part{
+        padding-top: 0;
+        margin-top: 50px;
+    }
+    #welcome_part .welcome_text p.fr_om{
+        width: auto;
+        margin-top: 50px;
+    }
+    #welcome_part .welcome_text p.i_f{
+        width: auto;
+        font-size: 14px;
+        padding-right: 0;
+    }
+    #welcome_part .welcome_img{
+        margin-top: 120px;
+    }
+    #welcome_part .welcome_text a{
+        margin-left: 50px;
+    }
+    /* ========our_part========== */
+    #our_part .header{
+        padding: 40px 0;
+    }
+    #our_part .header p{
+        padding: 0 5px;
+    }
+    #our_part .item h3{
+        font-size: 25px;
+    }
+    #our_part .item:hover .overlay{
+        height: 85%;
+        width: 83%;
+    }
+    #our_part .item:hover .overlay h4{
+        margin-top: 15px;
+    }
+    #our_part .item:hover .overlay p{
+        margin-top: 20px;
+    }
+    #our_part .item:hover .overlay h4::after{
+        left: 25%;
+    }
+    /* =========meet_part========== */
+    #meet_part .header p{
+        padding: 0 5px;
+    }
+    #meet_part .item h4{
+        margin-left: 60px;
+        font-size: 25px;
+    }
+    #meet_part .item h4.katherine{
+        margin-left: 35px;
+        font-size: 25px;
+    }
+    #meet_part .bu_tton{
+        width: 210px;
+    }
+    /* =========testi_part========= */
+    #testi_part .header{
+        padding: 25px 0;
+    }
+    #testi_part .testi_text .text p{
+        padding: 0;
+        margin: 0 6px;
+        width: 280px;
+        text-align: center;
+    }
+    #testi_part .testi_text .nex{
+        top: 158%;
+        right: 10px;
+        z-index: 9999;
+    }
+    #testi_part .testi_text .pre{
+        top: 160%;
+        left: 10px;
+       
+    }
+    /* ==========recent_part========= */
+    #recent_part{
+        margin-top: 50px;
+    }
+    #recent_part .header{
+        margin-bottom: 50px;
+    }
+    #recent_part .recent_item{
+        margin-bottom: 10px;
+    }
+    #recent_part .recent_item ul li span{
+        margin-left: 5px;
+    }
+    #recent_part .bu_tton{
+        width: 175px;
+    }
+    #recent_part .recent_item ul li.ti_me{
+        margin-left: 35px;
+    }
+    /* =======contact_part======== */
+    #contact_part .contact{
+        padding: 50px 0;
+        margin-left: 10px;
+    }
+    #contact_part h3{
+        font-size: 35px;
+    }
+    #contact_part .contact .dro_pdown{
+        width: 300px;
+    }
+    #contact_part .contact .dro_pdown .dropdown-toggle::after{
+        margin-left: 13.255em;
+    }
+    #contact_part .contact form input{
+        width: 300px;
+    }
+    #contact_part .contact button.su_bmit{
+        width: 94%;
+    }
+    #contact_part .contact p{
+        font-size: 14px;
+    }
+    #contact_part .contact ul li{
+        margin-right: 35px;
+    }
+    #contact_part .offset-2{
+        margin-left: 0;
+    }
+    #contact_part .contact_img img{
+        height: 430px;
+    }
+    /* =========footer_part======== */
+    #footer_part{
+        margin-top: -250px;
+        padding-bottom: 20px;
+    }
+    #footer_part .footer_item img{
+        margin-left: 70px;
+    }
+    #footer_part .offset-3{
+        margin-left: 18%;
+    }
+    #footer_part .footer_item ol li{
+        padding: 5px 17px;
+    }
+    #footer_part .footer_item h4.popu_lar{
+        margin-left: 60px;
+    }
+    .laste h4{
+        font-size: 18px;
+        margin-left: 5%;
+    }
+    
+}
+@media (min-width: 576px) and (max-width: 767px){
+    /* #menu_bar navbar .container{
+        width: 1140px;
+    } */
+    .container{
+        width: auto;
+    }
+    /*======banner_part======*/
+    #banner_part{
+        width: auto;
+        padding: 50px 0;
+        
+    }
+    #banner_part .banner_text{
+        margin-left: 5px;
+        width: 320px;
+    }
+    #banner_part .banner_text p{
+        width: 300px;
+    }
+    #banner_part .banner_text h1{
+        font-size: 30px;
+        margin-top: 35px;
+    }
+    #banner_part ul{
+        left: 80%;
+        top: 200px;
+        width: 40px;
+    }
+    #banner_part ul li{
+        width: 40px;
+        height: 40px;
+        padding: 10px 10px;
+    }
+    /* ======banner_bottom====== */
+    .offset-1{
+        margin-left: 0;
+    }
+    #banner_bottom{
+        margin-top: 50px;
+    }
+    #banner_bottom .img{
+        width: 390px;
+        margin-top: 10px;
+        margin-left: 65px;
+    }
+    #banner_bottom .img img{
+        height: 230px;
+    }
+    #banner_bottom .img .overlay a{
+        margin-left: 135px;
+    }
+    /* =======welcome_part======= */
+    #welcome_part{
+        padding-top: 0;
+        margin-top: 50px;
+    }
+    #welcome_part .welcome_text p.fr_om{
+        width: auto;
+        margin-top: 50px;
+    }
+    #welcome_part .welcome_text p.i_f{
+        width: auto;
+        font-size: 14px;
+        padding-right: 0;
+    }
+    #welcome_part .welcome_img{
+        margin-top: 120px;
+    }
+    #welcome_part .welcome_text a{
+        margin-left: 0;
+    }
+    /* ========our_part========== */
+    #our_part .item{
+        width: 80%;
+        margin-left: 60px;
+    }
+    #our_part .header{
+        padding: 40px 0;
+    }
+    #our_part .header p{
+        padding: 0 5px;
+    }
+    #our_part .item h3{
+        font-size: 25px;
+        text-align: center;
+    }
+    #our_part .item:hover .overlay{
+        height: 85%;
+        width: 83%;
+    }
+    #our_part .item:hover .overlay h4{
+        margin-top: 60px;
+    }
+    #our_part .item:hover .overlay p{
+        margin-top: 35px;
+    }
+    #our_part .item:hover .overlay h4::after{
+        left: 35%;
+    }
+    #our_part .item:hover .overlay p{
+        padding: 0 70px;
+        margin-bottom: 50px;
+    }
+    /* =========meet_part========== */
+    #meet_part .header p{
+        padding: 0 5px;
+    }
+    #meet_part .item h4{
+        margin-left: 170px;
+        font-size: 25px;
+    }
+    #meet_part .item h4.katherine{
+        margin-left: 135px;
+        font-size: 25px;
+    }
+    #meet_part .bu_tton{
+        width: 210px;
+    }
+    /* =========testi_part========= */
+    #testi_part .header{
+        padding: 25px 0;
+    }
+    #testi_part .testi_text .text p{
+        padding: 0;
+        margin: 0 6px;
+        
+        text-align: center;
+    }
+    #testi_part .testi_text .nex{
+        top: 158%;
+        right: 10px;
+        z-index: 9999;
+    }
+    #testi_part .testi_text .pre{
+        top: 160%;
+        left: 10px;
+       
+    }
+    /* ==========recent_part========= */
+    #recent_part{
+        margin-top: 50px;
+    }
+    #recent_part .header{
+        margin-bottom: 50px;
+    }
+    #recent_part .recent_item{
+        margin-bottom: 10px;
+        width: 80%;
+        margin-left: 54px;
+    }
+    #recent_part .recent_item ul li.ti_me{
+        margin-left: 145px;
+    }
+    #recent_part .recent_item ul li span{
+        margin-left: 5px;
+    }
+    #recent_part .bu_tton{
+        width: 175px;
+    }
+    /* =======contact_part======== */
+    #contact_part .contact{
+        padding: 50px 0;
+        margin-left: 10px;
+    }
+    #contact_part h3{
+        font-size: 35px;
+    }
+    #contact_part .contact .dro_pdown{
+        width: 550px;
+    }
+    #contact_part .contact .dro_pdown .dropdown-toggle::after{
+        margin-left: 28.255em;
+    }
+    #contact_part .contact form input{
+        width: 550px;
+    }
+    #contact_part .contact button.su_bmit{
+        width: 96%;
+    }
+    #contact_part .contact p{
+        font-size: 16px;
+    }
+    #contact_part .contact ul li{
+        margin-right: 35px;
+    }
+    #contact_part .offset-2{
+        margin-left: 0;
+    }
+    #contact_part .contact_img img{
+        height: 660px;
+    }
+    /* =========footer_part======== */
+     #footer_part{
+        margin-top: -250px;
+        padding-bottom: 20px;
+    }
+    #footer_part .footer_item img{
+        margin-left: 0;
+    }
+    #footer_part .offset-3{
+        margin-left: 0;
+    }
+    #footer_part .footer_item.quick{
+        margin-top: -65px;
+        margin-left: 180px;
+    }
+    #footer_part .footer_item ol{
+        margin-left: 40px;
+    }
+    #footer_part .footer_item ol li{
+        padding: 10px 40px;
+    }
+    #footer_part .footer_item h4.popu_lar{
+        margin-left: 0;
+    }
+    .laste h4{
+        font-size: 18px;
+        margin-left: 23%;
+    }
+}
+@media (min-width: 768px) and (max-width: 991px){
+    /* #menu_bar navbar .container{
+        width: 1140px;
+    } */
+    .container{
+        width: auto;
+    }
+    /*======banner_part======*/
+    #banner_part{
+        width: auto;
+        padding: 50px 0;
+        
+    }
+    #banner_part .banner_text{
+        margin-left: 5px;
+        width: 320px;
+    }
+    #banner_part .banner_text p{
+        width: 300px;
+    }
+    #banner_part .banner_text h1{
+        font-size: 30px;
+        margin-top: 35px;
+    }
+    #banner_part ul{
+        left: 80%;
+        top: 200px;
+        width: 40px;
+    }
+    #banner_part ul li{
+        width: 40px;
+        height: 40px;
+        padding: 10px 10px;
+    }
+    /* ======banner_bottom====== */
+    .offset-1{
+        margin-left: 0;
+    }
+    #banner_bottom{
+        margin-top: 50px;
+    }
+    #banner_bottom .img{
+        width: 550px;
+        margin-top: 10px;
+        margin-left: 65px;
+    }
+    #banner_bottom .img img{
+        height: 320px;
+    }
+    #banner_bottom .img .overlay h3{
+        font-size: 30px;
+        margin-top: 20px;
+    }
+    #banner_bottom .img .overlay a{
+        margin-left: 210px;
+        
+    }
+    /* =======welcome_part======= */
+    #welcome_part{
+        padding-top: 0;
+        margin-top: 50px;
+    }
+    #welcome_part .welcome_text p.fr_om{
+        width: auto;
+        margin-top: 50px;
+        padding-right: 200px;
+    }
+    #welcome_part .welcome_text p.i_f{
+        width: auto;
+        font-size: 14px;
+        padding-right: 30px;
+    }
+    #welcome_part .welcome_img{
+        margin-top: 120px;
+    }
+    #welcome_part .welcome_text a{
+        margin-left: 0;
+    }
+    /* ========our_part========== */
+    #our_part .header{
+        padding: 40px 0;
+    }
+    #our_part .header p{
+        padding: 0 5px;
+    }
+    #our_part .item h3{
+        font-size: 25px;
+        text-align: center;
+    }
+    #our_part .item{
+        width: 60%;
+        margin-left: 170px;
+    }
+    #our_part .item:hover .overlay{
+        height: 85%;
+        width: 83%;
+    }
+    #our_part .item:hover .overlay h4{
+        margin-top: 60px;
+    }
+    #our_part .item:hover .overlay p{
+        margin-top: 35px;
+    }
+    #our_part .item:hover .overlay h4::after{
+        left: 35%;
+    }
+    #our_part .item:hover .overlay p{
+        padding: 0 70px;
+        margin-bottom: 50px;
+    }
+    /* =========meet_part========== */
+    #meet_part .header p{
+        padding: 0 5px;
+    }
+    #meet_part .item{
+        width: 60%;
+        margin-left: 140px;
+    }
+    #meet_part .item h4{
+        margin-left: 120px;
+        font-size: 25px;
+    }
+    #meet_part .item h4.katherine{
+        margin-left: 95px;
+        font-size: 25px;
+    }
+    #meet_part .bu_tton{
+        width: 210px;
+    }
+    /* =========testi_part========= */
+    #testi_part .header{
+        padding: 25px 0;
+    }
+    #testi_part .testi_text .text p{
+        padding: 0;
+        margin: 0 95px;
+        
+        text-align: center;
+    }
+    #testi_part .testi_text .nex{
+        top: 158%;
+        right: 10px;
+        z-index: 9999;
+    }
+    #testi_part .testi_text .pre{
+        top: 160%;
+        left: 10px;
+       
+    }
+    /* ==========recent_part========= */
+    #recent_part{
+        margin-top: 50px;
+    }
+    #recent_part .header{
+        margin-bottom: 50px;
+    }
+    #recent_part .recent_item{
+        margin-bottom: 10px;
+        width: 60%;
+        margin-left: 140px;
+    }
+    #recent_part .recent_item ul li span{
+        margin-left: 5px;
+    }
+    #recent_part .bu_tton{
+        width: 175px;
+    }
+    #recent_part .recent_item ul li.ti_me{
+        margin-left: 140px;
+    }
+    /* =======contact_part======== */
+    #contact_part .contact{
+        padding: 50px 0;
+        margin-left: 10px;
+    }
+    #contact_part h3{
+        font-size: 35px;
+    }
+    #contact_part .contact .dro_pdown{
+        width: 750px;
+    }
+    #contact_part .contact .dro_pdown .dropdown-toggle::after{
+        margin-left: 40.255em;
+    }
+    #contact_part .contact form input{
+        width: 750px;
+    }
+    #contact_part .contact button.su_bmit{
+        width: 70%;
+        margin-left: 90px;
+    }
+    #contact_part .contact p{
+        font-size: 20px;
+        margin-left: 20%;
+    }
+    #contact_part .contact ul{
+        margin-left: 40%;
+    }
+    #contact_part .contact ul li{
+        margin-right: 35px;
+    }
+    #contact_part .offset-2{
+        margin-left: 0;
+    }
+    #contact_part .contact_img img{
+        height: 910px;
+    }
+    /* =========footer_part======== */
+     #footer_part{
+        margin-top: -250px;
+        padding-bottom: 20px;
+    }
+    #footer_part .footer_item img{
+        margin-left: 0;
+    }
+    #footer_part .offset-3{
+        margin-left: 0;
+    }
+    #footer_part .footer_item.quick{
+        margin-top: -65px;
+        margin-left: 345px;
+    }
+    #footer_part .footer_item ol{
+        margin-left: 40px;
+    }
+    #footer_part .footer_item ol li{
+        padding: 10px 76px;
+    }
+    #footer_part .footer_item h4.popu_lar{
+        margin-left: 0;
+    }
+    .laste h4{
+        font-size: 18px;
+        margin-left: 29%;
+    }
+}
+@media (min-width: 992px) and (max-width: 1199px){
+    /*=======banner_bottom========*/
+   #banner_bottom .gap{
+       margin-right: 45px;
+   }
+   #banner_bottom .offset-1{
+       margin-left: 5.333%;
+   }
+   /*======welcome_part========*/
+   #welcome_part{
+       margin-top: 0;
+       padding-top: 50px;
+   }
+   #welcome_part .welcome_text p.fr_om{
+    width: auto;
+    margin-top: 50px;
+    padding-right: 0;
+}
+    #welcome_part .welcome_text p.i_f{
+    width: auto;
+    font-size: 14px;
+    padding-right: 30px;
+}
+    #welcome_part .welcome_img{
+    margin-top: 120px;
+}
+    #welcome_part .welcome_text a{
+    margin-left: 0;
+}
+/* ========our_part========== */
+#our_part .header{
+    padding: 50px 0;
+}
+#our_part .item h3{
+    font-size: 25px;
+    text-align: center;
+}
+#our_part .item:hover .overlay{
+    height: 90%;
+}
+#our_part .item:hover .overlay h4{
+    margin-top: 20px;
+}
+#our_part .item .overlay{
+    left: 52%;
+}
+/*=========meet_part========*/
+#meet_part{
+    margin-top: 50px;
+}  
+/* =========testi_part======== */
+#testi_part .testi_text .text p{
+    padding: 0 200px;
+    text-align: center;
+}
+#recent_part .recent_item ul li.ti_me{
+    margin-left: 28px;
+}
+/* =========recent_part========= */
+#recent_part{
+    margin-top: 50px;
+}
+/* =========footer_part========= */
+#footer_part{
+    padding: 25px 0;
+}
+#contact_part .contact .dro_pdown .dropdown-toggle::after{
+    margin-left: 13.255em;
+}
+#footer_part .footer_item ol li{
+    padding: 5px 17px;
+}
+#footer_part .footer_item img{
+    margin-top: 90px;
+}
+.laste h4{
+    margin-left: 28%;
+}
+    
+    
+}
