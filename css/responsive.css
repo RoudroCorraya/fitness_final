@@ -44,6 +44,7 @@
     }
     #banner_bottom .img .overlay a{
         margin: auto;
+        margin-left: 0;
     }
     /* =======welcome_part======= */
     #welcome_part{
@@ -81,6 +82,7 @@
     }
     #our_part .item:hover .overlay h4{
         margin-top: 15px;
+        text-align: center;
     }
     #our_part .item:hover .overlay p{
         margin-top: 20px;
