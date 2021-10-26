@@ -42,6 +42,9 @@
         width: auto;
         margin-top: 10px;
     }
+    #banner_bottom .img .overlay a{
+        margin: auto;
+    }
     /* =======welcome_part======= */
     #welcome_part{
         padding-top: 0;
@@ -107,7 +110,7 @@
     #testi_part .testi_text .text p{
         padding: 0;
         margin: 0 6px;
-        width: 280px;
+        width: auto;
         text-align: center;
     }
     #testi_part .testi_text .nex{
@@ -148,13 +151,13 @@
         font-size: 35px;
     }
     #contact_part .contact .dro_pdown{
-        width: 300px;
+        width: auto;
     }
     #contact_part .contact .dro_pdown .dropdown-toggle::after{
         margin-left: 13.255em;
     }
     #contact_part .contact form input{
-        width: 300px;
+        width: auto;
     }
     #contact_part .contact button.su_bmit{
         width: 94%;
@@ -182,6 +185,9 @@
     #footer_part .offset-3{
         margin-left: 18%;
     }
+    #footer_part .footer_item ol{
+        width: auto;
+    }
     #footer_part .footer_item ol li{
         padding: 5px 17px;
     }
@@ -190,7 +196,7 @@
     }
     .laste h4{
         font-size: 18px;
-        margin-left: 5%;
+        margin-left: auto;
     }
     
 }
