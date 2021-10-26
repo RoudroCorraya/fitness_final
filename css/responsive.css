@@ -39,12 +39,12 @@
     }
     #banner_bottom .img{
         /* width: 290px; */
-        width: auto;
+        width: 100%;
         margin-top: 10px;
     }
     #banner_bottom .img .overlay a{
         margin: auto;
-        margin-left: 0;
+       
     }
     /* =======welcome_part======= */
     #welcome_part{
