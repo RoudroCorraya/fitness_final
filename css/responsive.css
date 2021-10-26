@@ -75,6 +75,7 @@
     }
     #our_part .item h3{
         font-size: 25px;
+        text-align: center;
     }
     #our_part .item:hover .overlay{
         height: 85%;
@@ -153,16 +154,19 @@
         font-size: 35px;
     }
     #contact_part .contact .dro_pdown{
-        width: auto;
+        width: 95%;
+    }
+    #contact_part .contact .dro_pdown .btn-secondary{
+        width: 100%;
     }
     #contact_part .contact .dro_pdown .dropdown-toggle::after{
         margin-left: 13.255em;
     }
     #contact_part .contact form input{
-        width: auto;
+        width: 95%;
     }
     #contact_part .contact button.su_bmit{
-        width: 94%;
+        width: 95%;
     }
     #contact_part .contact p{
         font-size: 14px;
@@ -197,10 +201,13 @@
         margin-left: 60px;
     }
     .laste h4{
-        font-size: 18px;
-        margin-left: auto;
+        font-size: 12px;
+        
+        width: 100%;
     }
-    
+    #footer_part .footer_item ol.workout{
+        width: auto;
+    }
 }
 @media (min-width: 576px) and (max-width: 767px){
     /* #menu_bar navbar .container{
