@@ -35,9 +35,11 @@
     }
     #banner_bottom{
         margin-top: 50px;
+        width: auto;
     }
     #banner_bottom .img{
-        width: 290px;
+        /* width: 290px; */
+        width: auto;
         margin-top: 10px;
     }
     /* =======welcome_part======= */
